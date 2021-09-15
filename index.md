@@ -2,11 +2,11 @@
 
 I'm going to use this space as collection of my notes on various technical topics.
 
-### About Me
+## About Me
 
-### My Notes
+## My Notes
 
-## Markdown
+### Markdown
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
