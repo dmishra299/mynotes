@@ -1,11 +1,12 @@
 ## welcome to my notes
 
-You can use the [editor on GitHub](https://github.com/dmishra299/mynotes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I'm going to use this space as collection of my notes on various technical topics.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Me
 
-### Markdown
+### My Notes
 
+## Markdown
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
