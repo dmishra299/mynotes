@@ -4,15 +4,26 @@
 I'm going to use this space as collection of my notes on various technical topics.
 
 ## about me
+TBA
 
 ## my notes
+TBA
 
-### Markdown
-Check what is [Markdown](https://github.com/dmishra299/mynotes/blob/gh-pages/default_index_backup.md) here
 
-### Jekyll Themes
+
+
+### Helpful Links
+#### Markdown
+Default [Markdown](https://github.com/dmishra299/mynotes/blob/gh-pages/default_index_backup.md) page.
+
+#### Emojis
+[Emoji's Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
+#### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dmishra299/mynotes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+
 
 ### Support or Contact
 
