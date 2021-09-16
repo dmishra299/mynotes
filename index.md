@@ -3,9 +3,9 @@
 
 I'm going to use this space as collection of my notes on various technical topics.
 
-## About Me
+## about me
 
-## My Notes
+## my notes
 
 ### Markdown
 Check what is [Markdown](https://github.com/dmishra299/mynotes/blob/gh-pages/default_index_backup.md) here
