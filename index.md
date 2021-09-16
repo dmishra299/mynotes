@@ -1,5 +1,5 @@
 :performing_arts: _work in progress..._
-## welcome to my notes :notebook_with_decorative_cover:
+# welcome to my notes :notebook_with_decorative_cover:
 
 I'm going to use this space as collection of my notes on various technical topics.
 
