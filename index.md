@@ -1,4 +1,4 @@
-_work in progress_
+_work in progress..._
 ## welcome to my notes
 
 I'm going to use this space as collection of my notes on various technical topics.
