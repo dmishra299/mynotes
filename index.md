@@ -14,8 +14,8 @@ TBA
 
 ### Helpful Links
 #### Markdown
-Default page having few [Markdown](https://github.com/dmishra299/mynotes/blob/gh-pages/default_index_backup.md) examples.
-[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+- Default page having few [Markdown](https://github.com/dmishra299/mynotes/blob/gh-pages/default_index_backup.md) examples.
+- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 #### Emojis
 [Emoji's Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
